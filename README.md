@@ -2,7 +2,7 @@
 
 to install 
 
-git clone
+git clone https://github.com/osamainam786-eng/DeepThoughtTask1.git
 pip install -r requirements.txt
 
 
